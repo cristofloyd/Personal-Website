@@ -582,11 +582,10 @@ p {
 }
 #contact .contact-item {
 	width: 80%;
-	padding: 20px;
 	text-align: center;
 	border-radius: 10px;
 	padding: 30px;
-	margin: 30px;
+	margin: 40px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -636,8 +635,8 @@ p {
 }
 #footer h2 {
 	color: white;
-	font-weight: 500;
-	font-size: 1.8rem;
+	font-weight: 300;
+	font-size: 1.5rem;
 	letter-spacing: .1rem;
 	margin-top: 10px;
 	margin-bottom: 10px;
