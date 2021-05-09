@@ -293,7 +293,7 @@ p {
     align-items: flex-start;
     justify-content: center;
     flex-direction: column;
-    padding: 10px;
+    padding: 20px;
     border-radius: 10px;
     background-image: url(./img/Optimized-wallpaperuse.com-turbocharger-wallpaper-337179.png);
     background-size: cover;
@@ -399,26 +399,29 @@ p {
 #services .service-item h2 {
     font-size: 2rem;
     color: white;
-	margin-top: 10px;
-    margin-bottom: 20px;
+	margin-top: 5px;
+    margin-bottom: 5px;
     text-transform: uppercase;
 }
 #services .service-item-1 h2 {
     font-size: 2rem;
     color: white;
-    margin-bottom: 10px;
+	margin-top: 15px;
+    margin-bottom: 15px;
     text-transform: uppercase;
 }
 #services .service-item-2 h2 {
     font-size: 2rem;
     color: white;
-    margin-bottom: 10px;
+	margin-top: 10px;
+    margin-bottom: 20px;
     text-transform: uppercase;
 }
 #services .service-item-3 h2 {
     font-size: 2rem;
     color: white;
-    margin-bottom: 10px;
+	margin-top: 5px;
+    margin-bottom: 20px;
     text-transform: uppercase;
 }
 #services .service-item p {
@@ -435,13 +438,12 @@ p {
     color: white;
 	font-weight: 600;
 	text-align: justify;
+	margin-bottom: 20px;
 }
 #services .service-item-3 p {
     color: white;
 	font-weight: 600;
 	text-align: justify;
-	margin-top: 15px;
-	margin-bottom: 35px;
 }
 /* End Services Section */
 
